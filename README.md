@@ -9,7 +9,7 @@ How to work?
 3. npm start
 4. browse at http://localhost:3000
 
-code
-<a href="https://kul-movie-list.herokuapp.com/">Demo</a>
+
+<a href="https://kul-movie-list.herokuapp.com/">Demo</a><br>
 click on Movies header nav
  
